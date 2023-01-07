@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karth\\Documents\\GitHub\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj": {}
+    "E:\\luxoft_traning_center\\SQA-050\\For Trainer\\code\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karth\\Documents\\GitHub\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj": {
+    "E:\\luxoft_traning_center\\SQA-050\\For Trainer\\code\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karth\\Documents\\GitHub\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
+        "projectUniqueName": "E:\\luxoft_traning_center\\SQA-050\\For Trainer\\code\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
         "projectName": "SeleniumCSharpNetCore",
-        "projectPath": "C:\\Users\\karth\\Documents\\GitHub\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
-        "packagesPath": "C:\\Users\\karth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karth\\Documents\\GitHub\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\obj\\",
+        "projectPath": "E:\\luxoft_traning_center\\SQA-050\\For Trainer\\code\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
+        "packagesPath": "C:\\Users\\Illia\\.nuget\\packages\\",
+        "outputPath": "E:\\luxoft_traning_center\\SQA-050\\For Trainer\\code\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\karth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Illia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +25,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\lis\\programming\\nuget_storage": {},
+          "D:\\lis\\programming\\workplaces\\axpo\\nuget_local_1": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -95,7 +100,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -104,7 +110,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
